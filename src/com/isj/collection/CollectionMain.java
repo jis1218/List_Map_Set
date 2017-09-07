@@ -103,6 +103,8 @@ public class CollectionMain {
 		
 		//입력
 		map.put("Hey", "Jude");
+		map.put("babo", "haha");
+		map.put("Hello", "GoodBye");
 		//조회
 		System.out.println(map.get("Hey"));
 		
